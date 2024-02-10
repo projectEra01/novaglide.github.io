@@ -39,3 +39,12 @@ button{
     margin-right: auto;
     border-radius: 40px;
 }
+
+.pad2{
+    width: 420px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    box-shadow: 1px 12px 12px 12px rgba(0, 0, 0, 0.8);
+}
